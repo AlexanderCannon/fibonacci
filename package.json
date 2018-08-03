@@ -1,0 +1,9 @@
+{
+  "name": "fibonacci",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^1.18.3"
+  }
+}
